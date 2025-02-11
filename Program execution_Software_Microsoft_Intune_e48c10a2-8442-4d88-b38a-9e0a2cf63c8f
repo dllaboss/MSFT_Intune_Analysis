@@ -1,0 +1,1 @@
+{"Type":"User","Name":"Intune Policy","KeyPath":"Microsoft\\IntuneManagementExtension\\Policies","ShortDescription":"Intune Policies","LongDescription":"Look for Intune policies on the system","InternalID":"e48c10a2-8442-4d88-b38a-9e0a2cf63c8f","HiveType":"Software","Category":"Program execution"}
